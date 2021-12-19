@@ -1,3 +1,1 @@
-pedidos22.sql
-pedidos1.sql
-pedidos22.sql
+pedidos12.sql
